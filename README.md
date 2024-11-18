@@ -1,4 +1,4 @@
-# workout_tracker
+## workout_tracker
 
 새싹 관악 flutter 실습 프로젝트
 
@@ -14,5 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# practice
 # practice
